@@ -26,7 +26,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        
 
 group :development, :test do
-	# Use sqlite3 as the database for Active Record
 	gem 'sqlite3'
 end
 
